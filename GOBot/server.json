@@ -1,0 +1,17 @@
+﻿{
+    "servers": [
+        {
+            "ip": "89.40.104.217",
+            "port": 27015,
+            "message": "{Players}/{MaxPlayers} on {Map}",
+            "token": "Nzk1NzU1ODUxOTgxMzg5ODY0.GvdRRU.a3WC4Y83vPjscO-KsxPN-3gzQ7PmBzg4roTABU"
+        },
+        {
+            "ip": "89.40.104.120",
+            "port": 27015,
+            "message": "{Players}/{MaxPlayers} on {Map}",
+            "token": "ODEyNzg0MTgwNDA0MTU4NDg0.G3qFV-.E4hNgTo0psvZT-PVbaVokWFrUo5Gxu6mszmh1w"
+        }
+    ]
+}
+
